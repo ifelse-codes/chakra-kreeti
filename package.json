@@ -1,0 +1,12 @@
+{
+  "name": "chakra-kreeti",
+  "version": "1.0.0",
+  "description": "Simple Node.js service for Chakra DNS smoke test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
